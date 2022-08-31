@@ -73,8 +73,8 @@ global.thumbnailUrl = [
   'https://telegra.ph/file/de92ed4a729887ffc974c.jpg', 'https://telegra.ph/file/00ce42a193b1dbbf907d4.jpg'
 
 //============= Games ================//
-global.benar = '_*Benar✅*_'
-global.salah = '_*Salah❌*_'
+global.benar = 'Benar ✅\n'
+global.salah = 'Salah ❌\n'
 global.dikit = "dikit lagi, semangat ya :')"
 
 global.multiplier = 100 // The higher, The harder levelup
