@@ -74,7 +74,7 @@ global.thumbnailUrl = [
 
 //============= Games ================//
 
-global.multiplier = 100 // The higher, The harder levelup
+
 
 //=========== Requirements ==========//
 
