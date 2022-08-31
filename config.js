@@ -4,8 +4,8 @@ global.mods = JSON.parse(fs.readFileSync('./src/moderator.json')) // Want some h
 global.thumbt = global.img
 global.fsx = 999999999999
 global.kontak = [
-['16199961931', 'Ziv San', true], 
-['6282179137771', 'HAORI IQ-MD', true] 
+['6282319517960', 'ATSAIR', true], 
+['6282319517960', 'ATSAIRBOT-MD', true] 
 ]
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -35,13 +35,13 @@ global.APIKeys = { // APIKey Here
 }
 
 global.linkyt = 'https://youtu.be/60yZO4UQKdI'
-global.WM = '𝑴𝒚𝑩𝒐𝒕-𝑴𝒖𝒍𝒕𝒊 𝑫𝒆𝒗𝒊𝒄𝒆 𝑩𝒚 𝚃𝚑𝚎.𝚂𝚊𝚍.𝙱𝚘𝚢𝟶𝟷'
-global.linkgc = 'https://chat.whatsapp.com/Kyz397uqvJZ5AvX7I4BSID'
-global.linkig = 'https://www.instagram.com/the.sad.boy01'
+global.WM = 'Atsair Wangsaf'
+global.linkgc = 'https://chat.whatsapp.com/LC2ZNYJi7iB4zNp7juywV0'
+global.linkig = 'https://www.instagram.com/muhammadatsair_20'
 global.deslink = ''
 global.logo = 'https://telegra.ph/file/1665521d176fbf172d735.jpg'
 global.titlink = 'Folllow me on Instagram'
-global.bodlink = '@the.sad.boy01'
+global.bodlink = '@muhammadatsair_20'
 
 global.wait = '_*𝐬𝐞𝐝𝐚𝐧𝐠 𝐝𝐢 𝐩𝐫𝐨𝐬𝐞𝐬 ...*_'
 global.eror = '_*мααƒ ѕєяνєя тι∂αк ѕтαвιℓ..*_'
@@ -52,7 +52,7 @@ global.urlnya = global.linkgc
 
 //============= callButtons ============//
 global.dtc = '𝒄𝒂𝒍𝒍 𝒐𝒘𝒏𝒆𝒓'
-global.phn = '+62 895-3362-82144'
+global.phn = '+62 823-1951-7960'
 
 //========== Tampilan Bot =============//
 global.sa = '╭─'
@@ -70,8 +70,7 @@ global.thumbnailUrl = [
   'https://telegra.ph/file/6359b013bc7e52c3b346f.jpg', 'https://telegra.ph/file/d43c89a5d2da72875ec05.jpg',
   'https://telegra.ph/file/7d6c0e35f9c8f52715541.jpg', 'https://telegra.ph/file/ef4b742d47e6a9115e2ff.jpg',
   'https://telegra.ph/file/55e5af5f33fbd57104187.jpg', 'https://telegra.ph/file/af236598456b95884bd15.jpg',
-  'https://telegra.ph/file/de92ed4a729887ffc974c.jpg', 'https://telegra.ph/file/00ce42a193b1dbbf907d4.jpg'
-]
+  'https://telegra.ph/file/de92ed4a729887ffc974c.jpg', 'https://telegra.ph/file/00ce42a193b1dbbf907d4.jp
 
 //============= Games ================//
 global.benar = '_*Benar✅*_'
